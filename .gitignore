@@ -8,3 +8,6 @@ android/app/build
 #skip ios
 ios
 index.ios.js
+
+# JetBrains IDE
+/.idea/
